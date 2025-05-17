@@ -1,8 +1,6 @@
-name: Avica
- 
+name: Avica 
 on:
-  workflow_call::
- 
+  workflow_call:
 jobs:
   build:
     name: Start Building...
