@@ -1,7 +1,7 @@
 name: Avica
  
 on:
-  workflow_dispatch:
+  workflow_call::
  
 jobs:
   build:
